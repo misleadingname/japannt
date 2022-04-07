@@ -2,8 +2,8 @@
 <p align="center">I'm a <i>backend</i> developer and a <i>gamedev</i> from Poland<br>Or in my words, <i>a furry loser with way too much free time.</i><br>And also I'm the Lead Administrator at <a href="https://gamecorner.ml">GameCorner</a></p>
 <hr />
 <h2 align="center">Projects That I'm working on</h3>
-<p align="center">I am currently working on <i>stepeffect</i> which is a DDR inspired engine.<br>And as a sideproject i am working on <strong>php</strong>Tube. Imagine youtube but tor friendly</p>
-<p align="right"><i>aaand nothing else really :p</i><p>
+<p align="center">I am currently working on <b>Nothin' mate</b></p>
+<!--<p align="right"><i>aaand nothing else really :p</i><p>-->
 <hr />
 <h2 align="center">Languages & Tools</h3>
 <table align="center">
