@@ -11,7 +11,8 @@
 	<tbody>
 		<tr>
 			<td align="center">
-				<img height=64px src="https://raw.githubusercontent.com/japannt/japannt/main/cpp.png" />
+				<img height=64px src="https://raw.githubusercontent.com/japannt/japannt/main/cpp.png" /><br>
+				Learning...
 			</td>
 			<td align="center">
 				<img height=64px src="https://raw.githubusercontent.com/japannt/japannt/main/csharp.png" />
