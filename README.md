@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 the name's japan!</h1>
-<p align="center">I'm a <i>backend</i> developer and a <i>gamedev</i> from Poland<br>Or in my words, <i>a furry loser with way too much free time.</i><br>And also I'm the Lead Administrator at <a href="https://gamecorner.ml">GameCorner</a></p>
+<p align="center">I'm a <i>backend</i> developer and a <i>gamedev</i> from Poland<br>Or in my words, <i>a furry loser with way too much free time.</i></p>
 <hr />
 <h2 align="center">Projects That I'm working on</h3>
 <p align="center">I am currently working on <b>Nothin' mate</b></p>
